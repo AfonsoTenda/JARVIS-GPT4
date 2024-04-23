@@ -31,9 +31,13 @@ Jarvis supports seamless control of your workshop environment with smart lights 
 - 💡3 LEDS
 - 🔊1 Buzzer
 
-The last 3 are only if you want to make a case and let the user know what JARVIS is doing.
-###3D Printable Case
+The last 3 are only if you want to make a the case.
+
+### 3D Printable Case
+
 ![Jarvis Case](https://i.imgur.com/ex3FbFj.png)
+
+Printables: https://www.printables.com/model/855254-jarvis-modular-workshop-assistant
 
 ## Getting Started
 
