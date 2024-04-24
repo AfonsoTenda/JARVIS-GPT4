@@ -55,9 +55,10 @@ sudo apt install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 es
 ```bash 
 cd J.A.R.V.I.S
 pip install -r requirements.txt
-``` 
-4. **Configure it:** LATER IN INSTRUCTABLES
-5. **Start it:**
+```
+4. **Install Wiring OP:** Instructions in https://github.com/zhaolei/WiringOP 
+5. **Configure it:** LATER IN INSTRUCTABLES
+6. **Start it:**
 ```bash
 bash start.sh
 ```
