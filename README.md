@@ -53,7 +53,7 @@ sudo apt install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 es
 ```
 3. **Install Python Dependencies:** 
 ```bash 
-cd J.A.R.V.I.S
+cd JARVIS-GPT4
 pip install -r requirements.txt
 ```
 4. **Install Wiring OP:** Instructions in https://github.com/zhaolei/WiringOP 
