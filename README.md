@@ -1,9 +1,9 @@
 # Jarvis: Modular Workshop Assistant
-
 ![Jarvis Logo](https://i.imgur.com/VZCCfYh.png)
 
 Jarvis is your ultimate workshop assistant, powered by GPT4. Inspired by Iron Man's J.A.R.V.I.S., this real-world implementation is designed to streamline your workshop activities with intuitive voice commands and smart automation.
 
+Instructables - https://www.instructables.com/JARVIS-Workshop-Assistant-Tool/
 ## Features
 
 - **🧠Intelligent Voice Interface:** Interact with Jarvis using natural language commands for a seamless workshop experience.
@@ -57,7 +57,7 @@ cd JARVIS-GPT4
 pip install -r requirements.txt
 ```
 4. **Install Wiring OP:** Instructions in https://github.com/zhaolei/WiringOP 
-5. **Configure it:** LATER IN INSTRUCTABLES
+5. **Configure it:** INSTRUCTABLES - https://www.instructables.com/JARVIS-Workshop-Assistant-Tool/
 6. **Start it:**
 ```bash
 bash start.sh
